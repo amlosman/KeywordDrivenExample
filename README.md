@@ -13,7 +13,7 @@ I check this keyword
 |Step-3	        | Enter search word	                      |searching    |
 |Step-4         | Scroll down	                            |scrolling    |
 |Step-5   	    | Navigate To next page	                  |goToNext     |
-|Step-6	        | Count the number of results displayed   |counting     |
+|Step-6	        | Count the number of results displayed=10|counting     |
 |Step-7         |	Scroll down	                            |scrolling    |
 |Step-8         |	Navigate To next page	                  |goToNext     |
 |Step-9         |	Validate if the number of page 3 or not	|validation   |
