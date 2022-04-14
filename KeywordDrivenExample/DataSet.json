@@ -1,0 +1,13 @@
+{
+  "Locaters": {
+    "NextLinkLocator": "pnnext",
+    "SearchLocator": "q",
+    "CountofResultLinks": "//h3[@class='LC20lb MBeuO DKV0Md']",
+    "ResultStatusLocator": "result-stats"
+
+  },
+
+  "Data": {
+    "SearchKeys": "Vodafone"
+  }
+}
